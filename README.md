@@ -7,3 +7,6 @@ Laboratorio 01: MRP, MDP, Value Function
 
 # Ejecutar
 python3 vi_and_pi main.py
+
+# Frozen Lake
+![Frozen Lake]([https://github.com/github.png](https://github.com/juliojesus15/FrozenLake/blob/main/img/frozen_lake.png)https://github.com/juliojesus15/FrozenLake/blob/main/img/frozen_lake.png)
